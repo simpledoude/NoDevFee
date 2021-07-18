@@ -4,4 +4,6 @@
 
 -w: wallet address. For example: -w 0xdeadbeef1234
 
+-s: searchpattern, defaults to "eth_submitLogin"
+
 For educational purpose only
